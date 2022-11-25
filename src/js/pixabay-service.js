@@ -21,6 +21,7 @@ fetchPhotos() {
         orientation: 'horizontal',
         safesearch: true,
         page: this.page,
+        per_page: this.per_page,
 
     },
     };
